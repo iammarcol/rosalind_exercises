@@ -1,1 +1,1 @@
-# rosalind_exercises
+# SOLUTIONS from the Rosalind bioinformatic exercises in Python

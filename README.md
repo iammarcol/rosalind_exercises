@@ -1,4 +1,4 @@
-# SOLUTIONS from the Rosalind bioinformatic exercises in Python
+# SOLUTIONS: Rosalind bioinformatic exercises in Python
 
 This is a repository with my solutions for the bioinformatic exercises from Rosalind
 
